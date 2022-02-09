@@ -16,26 +16,24 @@
 			}
 
 			#s1{
-				background-color: lightgreen;
+				background-color: pink;
 			}
 
 			#s2{
-				background-color: orange;
+				background-color: red;
 			}
 
 			#s3{
-				background-color: skyblue;
+				background-color: yellow;
 			}
 
 			section{
 				float: right;
 				clear: left;
 				border: 3px solid black;
-				margin-top: -8px;
 				margin-right: -8px;
 				width: 100px;
 				text-align: center;
-				background-color: pink;
 			}
 
 
